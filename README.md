@@ -13,4 +13,6 @@ VSCode Modify Project Entry Point
 1. Run project at least one time
 2. Go 'Run and Debug' window and click 'create a launch json file'
 3. Back to Project space and find '.vsocde/lauch.json'
-4. Add '"program": "your new entry point file (e.g. lib/main.dart)",'
+4. Add '"program": "your new entry point file (e.g. lib/T1_Helloworld.dart)",' before 'request' key-value pair
+5. Press F5 you will see the result
+6. Done

@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "zd_flutter_tutorial",
-            "program": "lib/main.dart",
+            "program": "lib/t1_hello_world.dart",
             "request": "launch",
             "type": "dart"
         },
