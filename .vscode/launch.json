@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "zd_flutter_tutorial",
-            "program": "lib/t2_basic_widgets.dart",
+            "program": "lib/t4_gestures.dart",
             "request": "launch",
             "type": "dart"
         },
