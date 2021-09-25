@@ -5,13 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "zd_flutter_tutorial",
-            "program": "lib/t4_gestures.dart",
+            "name": "FlutterTutorial",
+            "program": "lib/t5_responsive_screen.dart",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "zd_flutter_tutorial (profile mode)",
+            "name": "FlutterTutorial (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
