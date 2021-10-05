@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "FlutterTutorial",
-            "program": "lib/t5_responsive_screen.dart",
+            "program": "lib/test_widget1.dart",
             "request": "launch",
             "type": "dart"
         },
