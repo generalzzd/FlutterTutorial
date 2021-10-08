@@ -149,6 +149,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.4.2"
+  trie:
+    dependency: "direct main"
+    description:
+      name: trie
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.0.2"
   typed_data:
     dependency: transitive
     description:

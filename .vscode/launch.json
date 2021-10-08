@@ -6,9 +6,10 @@
     "configurations": [
         {
             "name": "FlutterTutorial",
-            "program": "lib/test_widget1.dart",
+            "program": "lib/tire_demo.dart",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "args": ["--no-sound-null-safety"]
         },
         {
             "name": "FlutterTutorial (profile mode)",
