@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "FlutterTutorial",
-            "program": "lib/tire_demo.dart",
+            "program": "lib/t7_fichart.dart",
             "request": "launch",
             "type": "dart",
             "args": ["--no-sound-null-safety"]
