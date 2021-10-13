@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "FlutterTutorial",
-            "program": "lib/t8_fichart2.dart",
+            "program": "lib/t9_singlechildscrollview.dart",
             "request": "launch",
             "type": "dart",
             "args": ["--no-sound-null-safety"]
