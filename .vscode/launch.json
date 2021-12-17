@@ -5,14 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "FlutterTutorial",
-            "program": "lib/t11_expanded_flexible.dart",
+            "name": "flutter_tutorial",
+            "program": "lib/t12_seatselection.dart", 
             "request": "launch",
-            "type": "dart",
-            "args": ["--no-sound-null-safety"]
+            "type": "dart"
         },
         {
-            "name": "FlutterTutorial (profile mode)",
+            "name": "flutter_tutorial (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
